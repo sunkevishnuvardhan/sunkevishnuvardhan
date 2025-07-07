@@ -55,23 +55,20 @@
   <a href="https://github.com/sunkevishnuvardhan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
-  <a href="https://www.linkedin.com/in/ambavaram-tirumala-kondareddy-b68851275/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+  <a href="https://www.linkedin.com/in/vishnuvardhan05s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
   <a href="https://sunkevishnuvardhan.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100057444433769" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-  <a href="mailto:rkonda959@gmail.com" target="_blank">
+  <a href="mailto:sunkevishnuvardhan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
 
 ###
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left"> Statistics 📊 </h2>
 <br>
 <p align=center>
   <div align=center>
