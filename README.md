@@ -16,11 +16,11 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/7m4wl6.gif" />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVhcndtdnY2ZjlwMDE2dGNucms1aXBpNm5iNm53YnFlMHBrd2xtbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ###
 
-<<h5 align="left">
+<h5 align="left">
 🔭 Currently working as a web developer focusing on building responsive and efficient web applications.<br>
 👯 Open to collaborating on full-stack web projects and open-source contributions.<br>
 🤝 Skilled in Python, HTML, SQL, and eager to learn new technologies.<br>
@@ -107,8 +107,3 @@
 <h4 align="center">
   <a href="https://github.com/sunkevishnuvardhan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-## ⚡MY Contribution ⚡
-![snake gif](https://github.com/sunkevishnuvardhan/sunkevishnuvardhan/blob/output/github-contribution-grid-snake.gif)
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;Hi+Welcome+to+myprofile!;+I'm+Sunke+Vishnu+Vardhan!;&center=true&size=20&font=Times+New+Roman&">
-  </a>
