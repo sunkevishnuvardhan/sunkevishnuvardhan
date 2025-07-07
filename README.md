@@ -20,13 +20,15 @@
 
 ###
 
-<h5 align="left">🔭 Currently working on web-based network management and bandwidth optimization.<br>
-👯 Looking to collaborate on cloud computing and full-stack web projects.<br>
-🤝 Open to learning advanced JavaScript and TypeScript.<br>
-🌱 Expanding my skills in React, Node.js, and AWS.<br>
-💬 Ask me about web security, cloud deployment, or scalable architectures.<br>
-⚡ Fun fact: I love building solutions and automating workflows!</h5>
-
+<<h5 align="left">
+🔭 Currently working as a web developer focusing on building responsive and efficient web applications.<br>
+👯 Open to collaborating on full-stack web projects and open-source contributions.<br>
+🤝 Skilled in Python, HTML, SQL, and eager to learn new technologies.<br>
+🌱 Continuously improving my expertise in backend development and database management.<br>
+💬 Feel free to ask me about web development, database design, or automation.<br>
+🏸 Outside of coding, I am an avid badminton player who values discipline and teamwork.<br>
+⚡ Fun fact: I enjoy combining my passion for programming with sports to maintain a balanced lifestyle!
+</h5>
 ###
 
 <h2 align="left">Interest and Skills 🔥</h2>
@@ -34,12 +36,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" width="42" alt="AWS logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="Node.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="MySQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="Git logo" />
 </div>
@@ -57,7 +58,7 @@
   <a href="https://www.linkedin.com/in/ambavaram-tirumala-kondareddy-b68851275/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://kondareddy1209.github.io/" target="_blank">
+  <a href="https://sunkevishnuvardhan.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100057444433769" target="_blank">
@@ -111,5 +112,3 @@
 ![snake gif](https://github.com/sunkevishnuvardhan/sunkevishnuvardhan/blob/output/github-contribution-grid-snake.gif)
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;Hi+Welcome+to+myprofile!;+I'm+Sunke+Vishnu+Vardhan!;&center=true&size=20&font=Times+New+Roman&">
   </a>
-like here add the #7FFFD4  for intro and https://www.linkedin.com/in/vishnuvardhan05s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-this is me linkedin replace it and change the linkedin logo with official linkedin logo and chnage the gmail color with back with white font 
