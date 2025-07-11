@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hey there! Welcome to my GitHub profile. I'm <b>Sunke Vishnu Vardhan</b>, a passionate coder and a student at Saveetha School of Engineering 🎓 pursuing a BSc in Computer Science 💻 with a focus on web development and cloud computing.</p>
+<p align="left">Hey there! Welcome to my GitHub profile. I'm <b>Sunke Vishnu Vardhan</b>, a passionate coder and a student at Saveetha School of Engineering 🎓 pursuing a BSC in Computer Science 💻 with a focus on web development and cloud computing.</p>
 
 ###
 
